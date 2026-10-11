@@ -82,7 +82,7 @@
 
 ## 如何更新
 
-当前正式版：[1.0.16](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.0.16)。本版加入手机与平板支持（iPhone、iPad、安卓；手机上可在设置里「补齐资源」），修复长篇书籍拆书时卡住的问题，沉浸式写作新增「纯白」「护眼」两种纸张。已有版本可直接升级，无需逐个安装中间版本。
+当前正式版：[1.0.17](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.0.17)。本版修复沉浸式写作中查找替换被顶部工具栏挡住的问题（文稿栏新增放大镜按钮，手机上在「⋯」菜单里），以及 Windows 上左上角图标重叠的问题。1.0.16 起支持手机与平板（iPhone、iPad、安卓）。已有版本可直接升级，无需逐个安装中间版本。
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
