@@ -82,7 +82,7 @@
 
 ## 如何更新
 
-当前正式版：[1.0.24](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.0.24)。优化左侧导航与笔记本深色模式，完善白板、弹窗及选择框的主题适配。已有版本可直接升级，无需逐个安装中间版本。
+当前正式版：[1.0.25](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.0.25)。人物构建器新增简洁版并支持深色模式，「我的资料」导入更完整，设置新增「外观」页签，梦境页与灵感池重新排版。已有版本可直接升级，无需逐个安装中间版本。
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
