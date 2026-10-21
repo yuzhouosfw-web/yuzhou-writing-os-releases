@@ -82,7 +82,7 @@
 
 ## 如何更新
 
-当前正式版：[1.0.26](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.0.26)。修复 Windows 上关闭背景横线后窗口闪烁，背景动画更省电，设置新增「动态效果」开关。已有版本可直接升级，无需逐个安装中间版本。
+当前正式版：[1.0.27](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.0.27)。「从文件安装」可直接选择更新文件所在的文件夹，「动态效果」说明调整。已有版本可直接升级，无需逐个安装中间版本。
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
