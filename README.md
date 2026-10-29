@@ -82,7 +82,7 @@
 
 ## 如何更新
 
-当前正式版：[1.0.30](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.0.30)。优化人物 AI「从正文找」的准确性，人物 AI 用语与人物构建器统一，修复项目工作台与深色模式下的若干显示问题。已有版本可直接升级，无需逐个安装中间版本。
+当前正式版：[1.1.0](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.1.0)。新增分屏写作、拖入导入、改书名与人物档案整合，优化资料栏与今日字数统计，修复若干问题。已有版本可直接升级，无需逐个安装中间版本。
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
