@@ -82,7 +82,7 @@
 
 ## 如何更新
 
-当前正式版：[1.2.0](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.2.0)。优化沉浸写作资料栏、白板时间线与大库操作，完善项目人物管理、资源浏览和专注习惯体验。已有版本可直接升级，无需逐个安装中间版本。
+当前正式版：[1.2.1](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.2.1)。灵感归档支持删除，优化归档操作布局与交互体验。已有版本可直接升级，无需逐个安装中间版本。
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
