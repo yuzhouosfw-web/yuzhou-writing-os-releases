@@ -82,7 +82,7 @@
 
 ## 如何更新
 
-当前正式版：[1.2.2](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.2.2)。修复时间线拖动和保存时的若干问题。已有版本可直接升级，无需逐个安装中间版本。
+当前正式版：[1.3.0](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.3.0)。新增时间线纪年与故事结构编辑，优化 Windows 大项目性能、资料栏及章节拖动。已有版本可直接升级，无需逐个安装中间版本。
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
