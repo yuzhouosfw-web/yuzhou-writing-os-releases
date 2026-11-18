@@ -82,13 +82,13 @@
 
 ## 如何更新
 
-当前正式版：[1.3.4](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.3.4)。修复微信读书普通版本通知造成的同步中断，以及同一项目不同大纲的白板布局相互影响。已有版本可直接升级，无需逐个安装中间版本。
+当前正式版为 [1.3.5](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.3.5)。完稿书架支持切换展示、移出和恢复作品，本地书架支持单本和批量导入。本版也修复了重复导入、缺失正文、异常封面和不可读文件的处理。已有版本可直接升级。
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
 [查看最新正式版本](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/latest) · [查看全部版本](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases)
 
-检查与下载需要能够连接 GitHub，使用更新入口不需要 GitHub 账号。当前使用语宙自身的更新入口，尚未通过 Obsidian 社区插件市场分发。
+从 1.3.5 起，联网更新支持 GitHub 和香港两个地址，连接或下载失败时会自动尝试另一处。旧版如连不上 GitHub，可下载[香港手动更新包](https://yuzhouos.top/updates/manual/Yuzhou-1.3.5.zip)，解压后在原仓库选择「从文件安装」。
 
 Release 中的 `yuzhou-update.json` 与 `yuzhou-update.bin` 由插件更新器配套使用，不是首次安装的完整仓库包；GitHub 自动显示的 `Source code` 压缩包也不能代替完整产品包。
 
