@@ -82,13 +82,13 @@
 
 ## 如何更新
 
-当前正式版为 1.3.6。时间轴支持只填时间创建事件，按日期查看时可拖动圆点或卡片改期。全书连读跟随左栏章序，手动调序后同步更新。[查看 1.3.6 更新说明](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.3.6)
+当前正式版为 1.3.7。番茄钟支持跨页计时和到时提醒，与写稿重叠的时段只计一次。分类可改名和移动条目，沉浸写作可同时查看资料和 AI 浮窗，时间线支持短年份。[查看 1.3.7 更新说明](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/tag/1.3.7)
 
 在 **语宙设置 → 更新 → 检查更新 → 下载并安装** 中操作，安装完成后重启 Obsidian，使新版程序生效。更新只替换插件程序文件，保留原有文稿、项目资料、个人设置与激活信息。
 
 [查看最新正式版本](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases/latest) · [查看全部版本](https://github.com/yuzhouosfw-web/yuzhou-writing-os-releases/releases)
 
-从 1.3.5 起，联网更新支持 GitHub 和香港两个地址，连接或下载失败时会自动尝试另一处。旧版如连不上 GitHub，可下载[香港手动更新包](https://yuzhouos.top/updates/manual/Yuzhou-1.3.6.zip)，解压后在原仓库选择「从文件安装」。
+从 1.3.7 起，插件优先从北京检查和下载更新。使用 1.3.5 或 1.3.6 时，若无法连接 GitHub，可从北京下载手动更新包。解压后在原仓库选择「从文件安装」，安装完成后重启 Obsidian。[北京手动更新包](https://yuzhou-updates-1368236393.cos.ap-beijing.myqcloud.com/updates/manual/Yuzhou-1.3.7.zip)
 
 Release 中的 `yuzhou-update.json` 与 `yuzhou-update.bin` 由插件更新器配套使用，不是首次安装的完整仓库包；GitHub 自动显示的 `Source code` 压缩包也不能代替完整产品包。
 
